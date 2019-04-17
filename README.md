@@ -2,4 +2,4 @@
 
 Einbaufertige bash Files zur folgenden Softwares:
 
-1 - VS Code (instalVS.sh)s
+1 - VS Code (instalVS.sh)
